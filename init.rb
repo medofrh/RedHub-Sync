@@ -7,3 +7,5 @@ Redmine::Plugin.register :redhub_sync do
   author_url 'https://www.medo98.com'
   requires_redmine version_or_higher: '5.0.0'
 end
+
+# Load the ProjectPatch
